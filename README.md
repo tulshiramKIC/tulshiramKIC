@@ -1,10 +1,25 @@
+<div style="width: 100%;">
+    <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F77820&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Tulshiram;"/>
+    </h1
+        </div>
+<h3 align="center">A passionate DevOps Engineer from India 🇮🇳</h3>
+<br/>
+<div align="center">
+ 
+ 🔭 I’m currently working on **AWS ECS**
+ 
+ 🎯 I’m currently learning **Kubernetes, GitLab, Azure**
+ 🚀 I like **Designing** 
+ </div>
+
+ <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="75">&nbsp;
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="75">
  </div>
  <div align="center">
-Some DevOps teams have wild server naming conventions. One team named all their servers after "Game of Thrones" characters, and every time a server crashed, they'd say "Ned Stark has been beheaded" or "Joffrey has been poisoned
      
 **Some DevOps teams have wild server naming conventions. One team named all their servers after "Game of Thrones" characters, and every time a server crashed, they'd say "Ned Stark has been beheaded" or "Joffrey has been poisoned**
-
  </div>
  <br>
  
