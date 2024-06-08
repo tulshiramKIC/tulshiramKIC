@@ -33,6 +33,7 @@
 </div>
 
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
+<hr style="border: none;">
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=bash,python,java,html,css" /> <br />
