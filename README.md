@@ -31,7 +31,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/TulshiramKadam7)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-F77820?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/tulshiramKIC)
 </div>
-
+<br>
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=bash,python,java,html,css" /> <br />
