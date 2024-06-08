@@ -6,7 +6,7 @@
 
 - 🌱 I’m a Final year student at **G H Raisoni College of Engineering and Management Pune**
 - 👨‍💻 All of my projects are available at [https://github.com/tulshiramKIC](https://github.com/tulshiramKIC)
-- <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="30" /> How to reach me **kadamtulshiram00@gmail.com**
+- <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="20" /> How to reach me **kadamtulshiram00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
