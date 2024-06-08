@@ -48,14 +48,14 @@
 </div>
 
 <div>
-<img align="left" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="350">
+<img align="left" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200">
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiramKIC&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="350">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200">
 </div>
 
 <div align="center">
