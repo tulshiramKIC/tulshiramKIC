@@ -1,6 +1,15 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!++I'm+Tulshiram+Kadam!;" />
 </h1>
+<div style="width: 100%;">
+  <a href="https://github.com/tulshiramKIC/tulshiramKIC/blob/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div><div style="width: 100%;">
+  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 <div align="center"> <img src=""> </div>
 <h3 align="center">A passionate DevOps Engineer</h3
 
