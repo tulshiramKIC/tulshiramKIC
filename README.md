@@ -32,6 +32,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-F77820?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/tulshiramKIC)
 </div>
 <br>
+<h3 align="center">Tech Stack</h3>
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=bash,python,java,html,css" /> <br />
