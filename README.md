@@ -7,13 +7,9 @@
 
 - 🌱 I’m a Final year student at **G H Raisoni College of Engineering and Management Pune**
 
-- 👯 Youtube channel [Mr cloud book](https://www.youtube.com/@mr.cloudbook)
-
-- 🤝 All Youtube classes Notes is here [Youtube Notes](https://github.com/Aj7Ay/youtube_notes.git)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Aj7Ay](https://github.com/Aj7Ay)
 
-- 📫 How to reach me **postbox.aj99@gmail.com**
+- 📫 How to reach me **kadamtulshiram00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
