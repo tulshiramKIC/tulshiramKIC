@@ -52,7 +52,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tulshiramKIC&theme=dark" alt="Streak Stats" style="width: 100%; height: auto;">
 </div>
 
-<p alifn="middle">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiramKIC&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
