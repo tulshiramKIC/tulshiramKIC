@@ -6,11 +6,14 @@
 <br/>
 
 <div align="center">
- 
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30">&nbsp; I’m currently working on **AWS ECS**<br>
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30">&nbsp; I’m currently working on **AWS ECS**<br>
+        
  🎯 I’m currently learning **Kubernetes, GitLab, Azure**<br>
  🚀 I love **Designing** 
- </div>
+
 
  <div align="center">
      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="75">&nbsp;
