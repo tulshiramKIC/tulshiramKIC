@@ -5,6 +5,11 @@
 <h3 align="center">An aspiring DevOps engineer based in India <img src="https://github.com/tulshiramKIC/tulshiramKIC/blob/main/India.webp" width="40" /></h3>
 <br/>
 
+<div style="display: flex; align-items: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30" style="margin-right: 10px;">
+    <span style="text-align: center;">I’m currently working on <strong>AWS ECS</strong></span>
+</div>
+
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
 
 <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30">&nbsp; I’m currently working on **AWS ECS**<br>
