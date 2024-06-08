@@ -1,5 +1,5 @@
 <div style="width: 100%;" align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F77820&width=500&height=70&duration=4000&lines=Hi+There,+👋;+This+is+Tulshiram!;"/>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F77820&width=500&height=70&duration=4000&lines=Hi+There,+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;;+This+is+Tulshiram!;"/>
 </div>
 
 <h3 align="center">An aspiring DevOps engineer based in India <img src="https://github.com/tulshiramKIC/tulshiramKIC/blob/main/India.webp" width="40" /></h3>
@@ -19,15 +19,6 @@
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30" style="display: inline-block; vertical-align: middle;">
     <span style="display: inline-block; vertical-align: middle;">I love <strong>Designing</strong></span>
 </div>
-
-
-
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-
-<img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30">&nbsp; I’m currently working on **AWS ECS**<br>
- <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="30">&nbsp; I’m currently learning **Kubernetes, GitLab, Azure**<br>
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30">&nbsp; I love **Designing** 
- </div>
 
 
  <div align="center">
