@@ -56,8 +56,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-tulshiramKIC.vercel.app/api/top-langs/?username=tulshiramKIC&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<hr/>
   
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
