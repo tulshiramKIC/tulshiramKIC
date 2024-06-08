@@ -16,10 +16,6 @@
   </a>
 
   <a href="www.linkedin.com/in/tulshiram-kadam-617053309" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60"> 
-  </a>
-
-  <a href="www.linkedin.com/in/tulshiram-kadam-617053309" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60"> 
   </a>
 
