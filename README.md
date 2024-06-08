@@ -3,7 +3,7 @@
 </h1>
 <div align="center"> <img src=""> </div>
 <h3 align="center">A passionate DevOps Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aj7ay&label=Profile%20views&color=0e75b6&style=flat" alt="aj7ay" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tulshiramKIC&label=Profile%20views&color=0e75b6&style=flat" alt="tulshiramKIC" /> </p>
 
 - 🌱 I’m a Final year student at **G H Raisoni College of Engineering and Management Pune**
 
