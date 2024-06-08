@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me <img vertical-align="middle" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"> </h3>
 
 <p align="left">
-  <a href="www.linkedin.com/in/tulshiram-kadam-617053309" target="blank">
+  <a href="www.linkedin.com/in/tulshiram-kadam-617053309" target="www.linkedin.com/in/tulshiram-kadam-617053309">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"> 
   </a>
 
