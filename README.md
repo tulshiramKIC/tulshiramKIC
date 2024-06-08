@@ -1,7 +1,5 @@
-<div style="width: 100%;">
-    <h2 align="center">
+<div style="width: 100%;" align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F77820&width=500&height=70&duration=4000&lines=Hi+There,+👋;+This+is+Tulshiram!;"/>
-    </h2>
 </div>
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F77820&width=500&height=70&duration=4000&lines=Hi+There,+👋;+This+is+Tulshiram!;"/>
 
