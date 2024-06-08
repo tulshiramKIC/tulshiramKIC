@@ -13,7 +13,7 @@
       }
 
       .body {
-        --color-main: #ff9b71;
+        --color-main: #f77820;
         --color-primary: #ff4444;
         --color-secondary: #e8e677;
         --color-background: #0d1117;
