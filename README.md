@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F77820&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Tulshiram;"/>
     </h1
         </div>
-<h3 align="center">A passionate DevOps Engineer from India <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="30"></h3>
+<h3 align="center">A passionate DevOps Engineer from India <img src="https://github.com/tulshiramKIC/tulshiramKIC/blob/main/India.webp" width="40"></h3>
 <br/>
 <div align="center">
  
