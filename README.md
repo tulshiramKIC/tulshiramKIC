@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/tulshiramKIC](https://github.com/tulshiramKIC)
 - <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="20" /> How to reach me **kadamtulshiram00@gmail.com**
 
-<h3 align="left">Connect with me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="25" /> </h3>
+<h3 align="left" vertical-align="middle">Connect with me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="25" /> </h3>
 
 <p align="left">
   <a href="www.linkedin.com/in/tulshiram-kadam-617053309" target="blank">
