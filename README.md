@@ -5,10 +5,6 @@
   <a href="https://github.com/tulshiramKIC/tulshiramKIC/blob/main/welcome.svg">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
-</div><div style="width: 100%;">
-  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
 </div>
 <div align="center"> <img src=""> </div>
 <h3 align="center">A passionate DevOps Engineer</h3
