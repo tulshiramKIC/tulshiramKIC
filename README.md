@@ -5,9 +5,35 @@
         </div>
 
 
-- 🌱 I’m a Final year student at **G H Raisoni College of Engineering and Management Pune**
-- 👨‍💻 All of my projects are available at [https://github.com/tulshiramKIC](https://github.com/tulshiramKIC)
-- <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="20" /> How to reach me **kadamtulshiram00@gmail.com**
+<h3 align="center">A passionate DevOps Engineer from India 🇮🇳</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **AWS ECS**
+ 
+ 🌱 I’m currently learning **Kubernetes, Gitlab, Azure**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Some DevOps teams have wild naming conventions for their servers. One team named all their servers after "Game of Thrones" characters, and every time a server crashed, they'd say "Ned Stark has been beheaded" or "Joffrey has been poisoned."
+
+**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 <h3 align="left" vertical-align="middle">Connect with me <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60"> </h3>
 
