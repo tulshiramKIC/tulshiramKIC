@@ -19,7 +19,7 @@
  </div>
  <div align="center">
      
-**Take a shot every time someone says "it works on my machine." Just kidding – you’d be drunk by noon!**
+**Take a shot every time someone says "It works on my machine." Just kidding – you’d be drunk by noon!**
  </div>
  <br>
 
@@ -32,7 +32,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-F77820?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/tulshiramKIC)
 </div>
 
-<h2 align="center" style="margin-bottom: 0;">⚒️ Languages-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=bash,python,java,html,css" /> <br />
