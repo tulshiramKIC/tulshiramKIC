@@ -4,7 +4,7 @@
     </h1>
 </div>
 
-<h3 align="center">An aspiring DevOps engineer based in India. <img src="https://github.com/tulshiramKIC/tulshiramKIC/blob/main/India.webp" width="40" /></h3>
+<h3 align="center">An aspiring DevOps engineer based in India <img src="https://github.com/tulshiramKIC/tulshiramKIC/blob/main/India.webp" width="40" /></h3>
 <br/>
 
 <div align="center">
