@@ -6,8 +6,8 @@
 <br/>
 
 <div align="center">
-    🎯 I’m currently working on <strong>AWS ECS</strong></span>
-    🚀 I’m currently learning <strong>Kubernetes, GitLab, Azure</strong></span>
+    🎯 I’m currently working on <strong>AWS ECS</strong></span><br>
+    🚀 I’m currently learning <strong>Kubernetes, GitLab, Azure</strong></span><br>
     ✨ I love <strong>Designing</strong></span>
 </div>
 
