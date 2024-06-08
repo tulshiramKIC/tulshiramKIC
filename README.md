@@ -47,16 +47,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tulshiramKIC&theme=dark" alt="Streak Stats" style="width: 48%; height: 200px;">
 </div>
 
-<div align="left">
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="350">
-</div>
+<div>
+<img align="left" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="350">
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiramKIC&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<div align="right">
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="350">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="350">
 </div>
 
 <div align="center">
