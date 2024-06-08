@@ -51,6 +51,13 @@ Some DevOps teams have wild server naming conventions. One team named all their 
   <a href="www.linkedin.com/in/tulshiram-kada" target="blank">
     <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60"> 
   </a>
+
+  ### Languages:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
   
 <div align=center>
   <h2 align="center">⚡ Stats ⚡</h2>
