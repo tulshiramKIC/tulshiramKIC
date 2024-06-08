@@ -6,7 +6,6 @@
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
-<div align="center"> <img src=""> </div>
 <h3 align="center">A passionate DevOps Engineer</h3
 
 - 🌱 I’m a Final year student at **G H Raisoni College of Engineering and Management Pune**
