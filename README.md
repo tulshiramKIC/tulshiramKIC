@@ -8,9 +8,8 @@
 <div align="center">
  
  🔭 I’m currently working on **AWS ECS**
- 
- 🎯 I’m currently learning **Kubernetes, GitLab, Azure**
- 🚀 I like **Designing** 
+ 🎯 I’m currently learning **Kubernetes, GitLab, Azure**<br>
+ 🚀 I love **Designing** 
  </div>
 
  <div align="center">
