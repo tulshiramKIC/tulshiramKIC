@@ -6,18 +6,9 @@
 <br/>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30" style="display: inline-block; vertical-align: middle;">
-    <span style="display: inline-block; vertical-align: middle;">I’m currently working on <strong>AWS ECS</strong></span>
-</div>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="30" style="display: inline-block; vertical-align: middle;">
-    <span style="display: inline-block; vertical-align: middle;">I’m currently learning <strong>Kubernetes, GitLab, Azure</strong></span>
-</div>
-
-<div align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30" style="display: inline-block; vertical-align: middle;">
-    <span style="display: inline-block; vertical-align: middle;">I love <strong>Designing</strong></span>
+    🎯 I’m currently working on <strong>AWS ECS</strong></span>
+    🚀 I’m currently learning <strong>Kubernetes, GitLab, Azure</strong></span>
+    ✨ I love <strong>Designing</strong></span>
 </div>
 
 
