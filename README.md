@@ -6,7 +6,6 @@
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
-<h3 align="center">A passionate DevOps Engineer</h3
 
 - 🌱 I’m a Final year student at **G H Raisoni College of Engineering and Management Pune**
 - 👨‍💻 All of my projects are available at [https://github.com/tulshiramKIC](https://github.com/tulshiramKIC)
