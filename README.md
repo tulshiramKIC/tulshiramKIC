@@ -22,7 +22,7 @@
 **Take a shot every time someone says "It works on my machine." Just kidding – you’d be drunk by noon!**
  </div>
  <br>
-<h2 align="center">📫 Connect with Me</h2>
+<h3 align="center">📫 Connect with Me</h3>
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kadamtulshiram00@gmail.com)
