@@ -19,7 +19,7 @@
  </div>
 
  <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="75">&nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="75">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="75">&nbsp;
  </div>
  <div align="center">
      
