@@ -42,15 +42,17 @@
 </p>
   
 
- <div style="width: 50%; display: inline-block;">
+ <div style="width: 50%; float: left;">
     <!-- Your GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=tulshiramKIC&show_icons=true&theme=radical&count_private=true" alt="Your GitHub Stats" style="width: 100%; height: auto;">
 </div>
 
-<div style="width: 50%; display: inline-block;">
+<div style="width: 50%; float: right;">
     <!-- Streak Stats -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tulshiramKIC&theme=dark" alt="Streak Stats" style="width: 100%; height: auto;">
 </div>
+
+<p alifn="middle">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiramKIC&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
