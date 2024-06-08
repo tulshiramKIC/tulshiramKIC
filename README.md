@@ -42,12 +42,8 @@
 </p>
   
 
-  <!-- Your GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=tulshiramKIC&show_icons=true&theme=radical&count_private=true" alt="Your GitHub Stats" style="width: 45%;">
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tulshiramKIC&theme=dark" alt="Streak Stats" style="width: 45%;">
-
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tulshiramKIC&show_icons=true&theme=radical&count_private=true)
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tulshiramKIC&theme=dark)
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiramKIC&layout=compact&theme=radical" alt="Top Languages" />
 </p>
