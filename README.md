@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tulshiram+Kadam!;" />
 </h1>
-<div align="center"> <img src=""> </div>
+<div align="center"> <img src="https://github.com/tulshiramKIC/tulshiramKIC/blob/main/pp.jpeg"> </div>
 <h3 align="center">A passionate DevOps Engineer</h3
 
 - 🌱 I’m a Final year student at **G H Raisoni College of Engineering and Management Pune**
