@@ -37,10 +37,10 @@ Some DevOps teams have wild server naming conventions. One team named all their 
   </a>
 </div>
 
-<h3 align="center" vertical-align="middle">Connect with me <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60"> </h3>
+<h3 align="center" vertical-align="middle">Connect with me<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60"> </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/tulshiram-kadam-617053309" target="blank">
+  <a href="www.linkedin.com/in/tulshiram-kadam" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"> 
   </a>
 
@@ -48,7 +48,7 @@ Some DevOps teams have wild server naming conventions. One team named all their 
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60"> 
   </a>
 
-  <a href="www.linkedin.com/in/tulshiram-kadam-617053309" target="blank">
+  <a href="www.linkedin.com/in/tulshiram-kada" target="blank">
     <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60"> 
   </a>
   
