@@ -42,11 +42,14 @@
 </p>
   
 
- <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tulshiramKIC&show_icons=true&theme=radical&count_private=true" alt="Your GitHub Stats" style="width: 48%; height: 200px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tulshiramKIC&theme=dark" alt="Streak Stats" style="width: 48%; height: 200px;">
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=tulshiramKIC&show_icons=true&theme=radical&count_private=true" alt="Your GitHub Stats" style="max-width: 100%; max-height: 200px;">
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tulshiramKIC&theme=dark" alt="Streak Stats" style="max-width: 100%; max-height: 200px;">
+  </div>
 </div>
-
 
 
 <p align="center">
