@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="www.linkedin.com/in/tulshiram-kadam-617053309" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif alt="tulshiramKIC" height="30" width="40" />
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"> 
   </a>
 
   
