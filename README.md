@@ -42,12 +42,10 @@
 </p>
   
 
- <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tulshiramKIC&show_icons=true&theme=radical&count_private=true" alt="Your GitHub Stats" style="width: 48%; height: auto; min-height: 200px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tulshiramKIC&theme=dark" alt="Streak Stats" style="width: 48%; height: auto; min-height: 200px;">
+ <div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tulshiramKIC&show_icons=true&theme=radical&count_private=true" alt="Your GitHub Stats" style="width: 48%; height: 200px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tulshiramKIC&theme=dark" alt="Streak Stats" style="width: 48%; height: 200px;">
 </div>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiramKIC&layout=compact&theme=radical" alt="Top Languages" />
