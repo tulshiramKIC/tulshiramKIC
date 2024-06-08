@@ -56,7 +56,9 @@ Some DevOps teams have wild server naming conventions. One team named all their 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,python,java,html,css" /> <br>
-    <img src="https://skillicons.dev/icons?i=git,github,linux,terraform,ansible,docker,jenkins,kubernetes,grafana,prometheus" />
+    <img src="https://skillicons.dev/icons?i=aws,azure" /> <br>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,readhat,maven,terraform,ansible,docker,jenkins,kubernetes,grafana,prometheus" />
+    <img src="https://skillicons.dev/icons?i=figma,xd,Wordpress,ps,pr" /> <br>
   </a>
 </p>
 
