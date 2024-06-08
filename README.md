@@ -47,10 +47,9 @@
   <a href="www.linkedin.com/in/tulshiram-kadam-617053309" target="blank">
     <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60"> 
   </a>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
+  
 <div align=center>
+  <h2 align="center">⚡ Stats ⚡</h2>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tulshiramKIC&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=tulshiramKIC&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
