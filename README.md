@@ -1,5 +1,5 @@
 <div style="width: 100%;" align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F77820&width=500&height=70&duration=4000&lines=Hi+There,+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;;+This+is+Tulshiram!;"/>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F77820&width=500&height=70&duration=4000&lines=Hi+There,+👋;+This+is+Tulshiram!;"/>
 </div>
 
 <h3 align="center">An aspiring DevOps engineer based in India <img src="https://github.com/tulshiramKIC/tulshiramKIC/blob/main/India.webp" width="40" /></h3>
