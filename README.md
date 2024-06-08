@@ -19,7 +19,7 @@
  </div>
  <div align="center">
      
-**Some DevOps teams have wild server naming conventions. One team named all their servers after "Game of Thrones" characters, and every time a server crashed, they'd say "Ned Stark has been beheaded" or "Joffrey has been poisoned**
+**Take a shot every time someone says "it works on my machine." Just kidding – you’d be drunk by noon!**
  </div>
  <br>
 
