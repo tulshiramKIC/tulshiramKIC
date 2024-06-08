@@ -3,7 +3,7 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F77820&width=500&height=70&duration=4000&lines=Hi+There,+👋;+This+is+Tulshiram!;"/>
     </h2>
 </div>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F77820&width=500&height=70&duration=4000&lines=Hi+There,+👋;+This+is+Tulshiram!;"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F77820&width=500&height=70&duration=4000&lines=Hi+There,+👋;+This+is+Tulshiram!;"/>
 
 <h3 align="center">An aspiring DevOps engineer based in India <img src="https://github.com/tulshiramKIC/tulshiramKIC/blob/main/India.webp" width="40" /></h3>
 <br/>
