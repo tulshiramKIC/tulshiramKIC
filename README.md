@@ -56,9 +56,9 @@
   
 <div align=center>
   <h2 align="center">⚡ Stats ⚡</h2>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tulshiramKIC&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=tulshiramKIC&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiramKIC&layout=compact&theme=react&border_radius=10" alt="top languages"/>
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tulshiramKIC&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiramKIC&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tulshiramKIC&theme=dark)
   <br/>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="350">
