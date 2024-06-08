@@ -34,16 +34,12 @@
   </a>
 </div>
 <h3 align="center" vertical-align="middle">Connect with me<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60"> </h3>
-<p align="center">
-  <a href="www.linkedin.com/in/tulshiram-kadam" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"> 
-  </a>
-  <a href="www.linkedin.com/in/tulshiram-kadam-617053309" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60"> 
-  </a>
-  <a href="www.linkedin.com/in/tulshiram-kada" target="blank">
-    <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60"> 
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/YourDiscordID)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YourTwitterUsername)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://YourPortfolioURL/)
+
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
