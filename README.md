@@ -52,10 +52,10 @@ Some DevOps teams have wild server naming conventions. One team named all their 
     <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60"> 
   </a>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim" />
+    <img src="https://skillicons.dev/icons?i=python,Java,yaml,html,css" />
   </a>
 </p>
 
