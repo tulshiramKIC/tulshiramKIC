@@ -9,7 +9,11 @@
 - 📫 How to reach me **kadamtulshiram00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__a_error69__" height="30" width="40" /></a>
-</p>
+  <a href="www.linkedin.com/in/tulshiram-kadam-617053309" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tulshiramKIC" height="30" width="40" />
+  </a>
+
+  
 
