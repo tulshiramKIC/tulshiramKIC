@@ -12,7 +12,11 @@
 
 <p align="left">
   <a href="www.linkedin.com/in/tulshiram-kadam-617053309" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"> 
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60"> 
+  </a>
+
+  <a href="www.linkedin.com/in/tulshiram-kadam-617053309" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60"> 
   </a>
 
   
