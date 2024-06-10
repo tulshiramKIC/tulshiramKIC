@@ -24,7 +24,7 @@
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kadamtulshiram00@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=twitter=light)]([https://skillicons.dev](https://twitter.com/TulshiramKadam7))
+[![Twitter](src="https://skillicons.dev/icons?i=twitter")](https://twitter.com/TulshiramKadam7))
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/tulshiram-kadam)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/tulshiramkic)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TulshiramKadam7)
