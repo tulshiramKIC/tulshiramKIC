@@ -57,7 +57,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
 </div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tulshiramKIC&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=E6F001&color=FFFFFF&point=E6F001)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tulshiramKIC&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=DA507C&color=FFFFFF&point=E6F001)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tulshiramKIC&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=EE8B39&color=EE8B39&point=EE8B39)
 
