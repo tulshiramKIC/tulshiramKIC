@@ -43,7 +43,7 @@
 <br />
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=tulshiramKIC&show_icons=true&theme=radical&count_private=true" alt="Your GitHub Stats" style="width: 48%; height: 200px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tulshiramKIC&theme=dark" alt="Streak Stats" style="width: 48%; height: 200px;" />
+    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=tulshiramKIC" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
